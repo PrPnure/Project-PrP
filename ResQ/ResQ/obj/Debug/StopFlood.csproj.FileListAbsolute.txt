@@ -1,0 +1,308 @@
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.dll.config
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.pdb
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Antlr3.Runtime.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\DocumentFormat.OpenXml.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\DocX.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.SqlServer.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\itextsharp.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Web.Infrastructure.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Newtonsoft.Json.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Owin.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.Mvc.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Net.Http.Formatting.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Helpers.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.Owin.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.WebHost.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Mvc.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Optimization.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Razor.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Deployment.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Razor.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\WebGrease.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\itextsharp.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Newtonsoft.Json.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.Mvc.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Net.Http.Formatting.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.Owin.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Helpers.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Mvc.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Optimization.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Razor.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Deployment.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Razor.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Antlr3.Runtime.pdb
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.WebHost.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.SqlServer.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\StopFlood.csprojResolveAssemblyReference.cache
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.InitialCreate.resources
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.cmd.resources
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.secondMigr.resources
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.tryagaing.resources
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.theEnd.resources
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\StopFlood.csproj.GenerateResource.Cache
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\Лещинский\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.pdb
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.dll.config
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.pdb
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Antlr3.Runtime.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\DocumentFormat.OpenXml.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\DocX.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.SqlServer.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\itextsharp.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Web.Infrastructure.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Newtonsoft.Json.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Owin.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.Mvc.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Net.Http.Formatting.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Helpers.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.Owin.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.WebHost.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Mvc.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Optimization.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Razor.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Deployment.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Razor.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\WebGrease.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\itextsharp.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Newtonsoft.Json.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.Mvc.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Net.Http.Formatting.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.Owin.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Helpers.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Mvc.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Optimization.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Razor.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Deployment.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Razor.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Antlr3.Runtime.pdb
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.WebHost.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.SqlServer.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\obj\Debug\StopFlood.csprojResolveAssemblyReference.cache
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.InitialCreate.resources
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.cmd.resources
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.secondMigr.resources
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.tryagaing.resources
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.theEnd.resources
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\obj\Debug\StopFlood.csproj.GenerateResource.Cache
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.dll
+G:\Загрузки\1\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.pdb
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.dll.config
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.pdb
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Antlr3.Runtime.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\DocumentFormat.OpenXml.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\DocX.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.SqlServer.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\itextsharp.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Web.Infrastructure.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Newtonsoft.Json.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Owin.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.Mvc.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Net.Http.Formatting.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Helpers.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.Owin.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.WebHost.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Mvc.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Optimization.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Razor.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Deployment.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Razor.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\WebGrease.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\itextsharp.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Newtonsoft.Json.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.Mvc.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Net.Http.Formatting.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.Owin.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Helpers.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Mvc.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Optimization.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Razor.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Deployment.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Razor.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Antlr3.Runtime.pdb
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.WebHost.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.SqlServer.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\StopFlood.csprojResolveAssemblyReference.cache
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.InitialCreate.resources
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.cmd.resources
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.secondMigr.resources
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.tryagaing.resources
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.theEnd.resources
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\StopFlood.csproj.GenerateResource.Cache
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.dll
+F:\Документы\ХНУРЭ\3 курс\2 семестр\АтРКП\КУРСОВОЙ\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.pdb
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.dll.config
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\ResQ.pdb
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Antlr3.Runtime.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\DocumentFormat.OpenXml.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\DocX.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.SqlServer.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\itextsharp.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Web.Infrastructure.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Newtonsoft.Json.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Owin.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.Mvc.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Net.Http.Formatting.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Helpers.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.Owin.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.WebHost.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Mvc.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Optimization.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Razor.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Deployment.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Razor.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\WebGrease.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\itextsharp.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Newtonsoft.Json.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\PagedList.Mvc.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Net.Http.Formatting.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.Owin.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Helpers.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Mvc.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Optimization.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Razor.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Deployment.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.WebPages.Razor.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Antlr3.Runtime.pdb
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\System.Web.Http.WebHost.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\EntityFramework.SqlServer.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Google.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\obj\Debug\StopFlood.csprojResolveAssemblyReference.cache
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.InitialCreate.resources
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.cmd.resources
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.secondMigr.resources
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.tryagaing.resources
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.Migrations.theEnd.resources
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\obj\Debug\StopFlood.csproj.GenerateResource.Cache
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.dll
+G:\Загрузки\SB\StopFlood\ResQ\ResQ\ResQ\obj\Debug\ResQ.pdb
